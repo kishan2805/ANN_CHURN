@@ -94,5 +94,5 @@ To make predictions on new customer data, ensure the required .pkl files (label_
 
 ## Run App.py for running streamlit web app
 ```bash
-streamit run App.py
+streamlit run App.py
 ```
